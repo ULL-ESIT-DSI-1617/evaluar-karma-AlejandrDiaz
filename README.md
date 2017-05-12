@@ -8,7 +8,7 @@ En esta tarea usando el conversor de temperaturas introduciremos pruebas con Moc
 
 - [Enlace a la asignatura](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
 
-
+- [Descripción de la Tarea](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicaevaluakarma.html)
 
 ### Autor
 
