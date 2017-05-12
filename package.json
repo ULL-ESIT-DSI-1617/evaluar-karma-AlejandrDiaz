@@ -4,7 +4,7 @@
   "description": "Programacion orientada a objetos y herencia en javascript. Conversor.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "tests/tests.js"
   },
   "repository": {
     "type": "git",
