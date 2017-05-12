@@ -24,6 +24,12 @@
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/evaluar-karma-AlejandrDiaz#readme",
   "devDependencies": {
     "chai": "*",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "*",
+    "karma-firefox-launcher": "*",
+    "karma-html2js-preprocessor": "*",
+    "karma-mocha": "^1.3.0",
+    "karma-phantomjs-launcher": "*",
     "mocha": "*",
     "travis": "*"
   }

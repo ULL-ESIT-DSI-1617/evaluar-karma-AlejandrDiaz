@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/evaluar-karma-AlejandrDiaz.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/evaluar-karma-AlejandrDiaz)
+
+
 # Evaluar Karma
 En esta tarea usando el conversor de temperaturas introduciremos pruebas con Mocha, Chai , Karma y integraremos con Travis.
 
